@@ -10,9 +10,6 @@ AI voice dictation for Windows and Mac. Speak naturally and get finished, polish
 **[Polire](https://polire.app)** · *Polish everything you write.*
 A minimalist, open source desktop writing assistant. Summon it from anywhere with a shortcut to improve, retone, translate and save your text without breaking your flow.
 
-**[exercicios-bd-ptbr](https://github.com/gugeldev/exercicios-bd-ptbr)** · *211★*
-The open source database of 800+ detailed physical exercises in Brazilian Portuguese. Free, structured and ready to power fitness apps.
-
 **[FocusPocus](https://github.com/gugeldev/focus-pocus)** · *87★*
 A browser extension that makes distractions disappear while you study. Turn on focus mode and the pages that steal your time stop existing.
 
