@@ -18,4 +18,8 @@ A browser extension that makes distractions disappear while you study. Turn on f
 
 ---
 
-**Stack.** TypeScript everywhere. Bun and Elysia on the server, PostgreSQL and Redis for data, Expo and React Native on mobile, Docker for everything in between. Type-safe from the database to the screen.
+**Stack**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,nodejs,bun,elysia,react,nextjs,postgres,redis,docker,aws,cloudflare&perline=11" alt="TypeScript, Node.js, Bun, Elysia, React, Next.js, PostgreSQL, Redis, Docker, AWS, Cloudflare" /></a>
+
+<sub>Also Fastify on the server and Expo + React Native on mobile.</sub>
