@@ -1,8 +1,6 @@
 ### hey, i'm gugel.
 
-I build products end to end: the database, the API, the app in your pocket and the desktop tool you summon with a shortcut. I ship them myself, and people use them.
-
-I care about software that feels fast, looks quiet and gets out of the way. When I want to understand something, I build it from scratch.
+I build products and tools that are genuinely useful to people, with an obsession for exceptional experience and UI.
 
 ---
 
